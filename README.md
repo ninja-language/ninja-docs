@@ -1,0 +1,1 @@
+# Documentation about Ninja Programming Language  

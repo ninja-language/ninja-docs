@@ -1,5 +1,5 @@
 languageCode = "en-us"
-title = "Ninja Documentation"
+title = "Ninja Programming Language - Documentation"
 baseURL = "/"
 themesDir = "themes"
 theme = "hugo-whisper-theme"
@@ -36,22 +36,22 @@ summaryLength = 30
   google_analytics_id=""
   homepage_button_link = '/docs'
   homepage_button_text = 'Read The Docs'
-  homepage_intro = 'Whisper is a documentation theme built with Hugo. The design and functionality is intentionally minimal.'
+  homepage_intro = 'Ninja Programming Language is a general purpose language'
   homepage_image = '/images/terminal.gif'
 
   ## You can enable to add anchor links to header elements
   # enable_anchor_link = true
 
   [params.homepage_meta_tags]
-    meta_description = "Hugo Whisper is a documentation theme built with Hugo."
-    meta_og_title = "Hugo Whisper Theme"
+    meta_description = "Ninja Programming Language is a general purpose language built by Jonathan Fontes."
+    meta_og_title = "Ninja Programming Language"
     meta_og_type = "website"
-    meta_og_url = "https://hugo-whisper.netlify.app"
+    meta_og_url = "https://ninja.jonathan.pt"
     meta_og_image = "https://raw.githubusercontent.com/JugglerX/hugo-whisper-theme/master/images/tn.png"
-    meta_og_description = "Hugo Whisper is a documentation theme built with Hugo."
+    meta_og_description = "Ninja Programming Language is a general purpose language built by Jonathan Fontes."
     meta_twitter_card = "summary"
-    meta_twitter_site = "@zerostaticio"
-    meta_twitter_creator = "@zerostaticio"
+    meta_twitter_site = "@gravataLonga"
+    meta_twitter_creator = "@gravataLonga"
 
   [params.logo]
       mobile = "/images/logo-mobile.svg"
