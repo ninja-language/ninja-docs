@@ -54,5 +54,5 @@ summaryLength = 30
     meta_twitter_creator = "@gravataLonga"
 
   [params.logo]
-      mobile = "/images/logo-mobile.svg"
-      standard  = "/images/logo.svg"
+      mobile = "/ninja.svg"
+      standard  = "/ninja.svg"
