@@ -61,7 +61,7 @@ var person = {name: "John", age: 30};  // declares a hash
 
 ## Functions  
 
-Functions: A function is a block of code that can be called (executed) multiple times. To declare a function, use the `var` 
+A function is a block of code that can be called (executed) multiple times. To declare a function, use the `var` 
 keyword followed by the name of the variable you want to create, and then assign it a function definition 
 (a block of code surrounded by the `function` keyword and curly braces). 
 For example:  
