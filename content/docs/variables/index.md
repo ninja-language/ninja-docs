@@ -5,9 +5,6 @@ draft: false
 weight: 1
 ---
 
-
-# Introduction  
-
 Here is a summary of the different types of variables and how to declare them in Ninja programming language:
 
 ## Numbers  
