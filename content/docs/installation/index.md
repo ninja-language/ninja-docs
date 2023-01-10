@@ -73,3 +73,5 @@ Download from [github](https://github.com/gravataLonga/ninja/releases)
 git clone https://github.com/gravataLonga/ninja
 cd ninja
 go build -o ninja-lang
+```  
+
