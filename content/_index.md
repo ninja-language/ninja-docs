@@ -3,7 +3,6 @@ title: 'Ninja'
 date: 2018-11-28T15:14:39+10:00
 ---
 
-
 Ready to take your programming skills to the next level?   
 
 Look no further than Ninja, the powerful and easy-to-learn language that's perfect for building web applications.
