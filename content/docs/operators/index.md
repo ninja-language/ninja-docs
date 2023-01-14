@@ -41,7 +41,4 @@ weight: 3
 1++;        // First return value and then increment value
 1--;        // First return value and then decrement value  
 ```  
-
-
-> **Note**: Value is truthy when is not nil or false. Example: empty array is true, empty hash is true, integer 0 is true.  
-> 
+> Value is truthy when is not nil or false. Example: empty array is true, empty hash is true, integer 0 is true.
