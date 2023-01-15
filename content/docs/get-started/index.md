@@ -1,19 +1,20 @@
 ---
-title: "Installation"
+title: "Get Started"
 date: 2023-01-09T23:00:00Z
 draft: false
 weight: 1
 ---
 
+## Installation  
 
-## Homebrew
+### Homebrew
 
 ```sh
 brew tap gravatalonga/ninja-lang
 brew install ninja-lang
 ```  
 
-## YUM / RPM
+#### YUM / RPM
 
 To enable, add the following file `/etc/yum.repos.d/ninja.repo`:
 
@@ -37,7 +38,7 @@ To install you only need run following command:
 yum install ninja-lang  
 ```  
 
-## APT
+#### APT
 
 To configure apt access, create a following file `/etc/apt/sources.list.d/ninja.list` with content of :
 
@@ -57,21 +58,29 @@ and them you can install
 sudo apt install ninja-lang
 ```
 
-## Windows  
+### Windows  
 
 For windows, you can get binaries from github.  
 
 https://github.com/gravataLonga/ninja/releases  
 
-## Manual Download
+### Manual Download
 
 Download from [github](https://github.com/gravataLonga/ninja/releases)
 
-## Manual Installation
+### Manual Installation
 
 ```sh  
 git clone https://github.com/gravataLonga/ninja
 cd ninja
 go build -o ninja-lang
-```  
+```   
+
+## Execute Code  
+
+You can execute code in three ways,  
+
+1. Create a file called `example.nj` and execute binary passing file. E.g.: `ninja-lang example.nj`  
+2. Using as RELP, just need to execute `ninja-lang` and you good to go.  
+3. Passing ninja code directly to binary, `ninja-lang -e "var a = 1; puts(a);`  
 
